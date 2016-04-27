@@ -1,4 +1,4 @@
-/*
+
 // Video
 var tag = document.createElement('script');
 		tag.src = 'https://www.youtube.com/player_api';
@@ -55,7 +55,7 @@ $('.hi span').on('click', function(){
   }
 });
 
-*/
+
 
 // code for popup modals on manhattan.html
 $('[data-popup-open]').on('click', function(e) {
